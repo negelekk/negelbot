@@ -1,0 +1,2 @@
+# negelbot
+bot clock dc
